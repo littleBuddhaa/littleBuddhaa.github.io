@@ -1,3 +1,3 @@
 # littlebuddhaa.github.io
-personal website
-link : https://somineegupta.cf
+personal website / painting portfolio <br>
+link : somineegupta.cf or https://littlebuddhaa.github.io
